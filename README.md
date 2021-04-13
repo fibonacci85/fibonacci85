@@ -6,3 +6,6 @@
 🛠 My Tech Stack:
 
 🌐 JavaScript | Python | React | Redux | HTML | CSS | SASS | Styled-Components | NODE | EXPRESS 🛢 SQLite 🌎 Heroku | Vercel | Netlify 🔧 Visual Studio Code ⚙️ Git | Github | Markdown
+
+Follow me on:[LinkedIn](https://www.linkedin.com/in/francisbonacic)
+
