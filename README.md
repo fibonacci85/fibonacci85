@@ -1,7 +1,7 @@
 
 #Greetings, My name is *Francis!* 👋
 
-🖥 I live in Long Beach, CA and I'm currently a student at Lambda School studying to become a Full-Stack web developer. ⚡ ⚡ ⚡ otherPassions = ["Video Games", "Film", "Nature", "Self-Improvement"] 🌱
+🖥  I'm currently a student at Lambda School studying to become a Full-Stack web developer. ⚡ ⚡ ⚡ otherPassions = ["Video Games", "Film", "Nature", "Self-Improvement"] 🌱
 
 🛠 My Tech Stack:
 
